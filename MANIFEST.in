@@ -1,0 +1,2 @@
+recursive-include rpi_cam/templates *.html
+recursive-include rpi_cam/static *
